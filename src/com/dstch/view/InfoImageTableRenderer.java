@@ -35,7 +35,7 @@ public class InfoImageTableRenderer extends DefaultTableCellRenderer {
 		}
 		iconLabel.setFont(new Font("微软雅黑", Font.PLAIN, 14));
 		iconLabel.setHorizontalAlignment(JLabel.CENTER);
-//		iconLabel.setVerticalAlignment(JLabel.CENTER);
+		iconLabel.setVerticalAlignment(JLabel.CENTER);
 		return iconLabel;
     }
 
