@@ -1,5 +1,5 @@
-.classpath
-.class
-.properties
 .idea
 .settings
+.project
+.classpath
+bin/
