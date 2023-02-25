@@ -2,5 +2,6 @@
 .settings
 .project
 .classpath
+sgproj_exception.iml
 db.properties
 bin/
