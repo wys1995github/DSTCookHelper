@@ -2,6 +2,7 @@
 .settings
 .project
 .classpath
-sgproj_exception.iml
+DSTCookHelper.iml
 db.properties
 bin/
+out/
